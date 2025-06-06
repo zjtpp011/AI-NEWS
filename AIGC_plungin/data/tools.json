@@ -1,0 +1,110 @@
+{
+    "tools": [
+        {
+            "name": "堆友抠图",
+            "description": "支持一键抠图、批量抠图，适用于海报/H5/banner/PPT等设计素材获取",
+            "logo": "http://trustcdn.baidu.com/officialcard/f7e490a5835ce7c8b2df67ace808ac9b_originalsize.png",
+            "url": "https://d.design/toolbox/cutout",
+            "category": "image"
+        },
+        {
+            "name": "百度AI图片助手",
+            "description": "支持一键去水印、文字涂抹消除、图片高清放大等功能",
+            "logo": "https://www.baidu.com/favicon.ico",
+            "url": "https://image.baidu.com/search/index?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=detail&hs=0&xthttps=111110&sf=1&fmq=1713767239197_R&pv=&ic=0&nc=1&z=&se=&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word=bdaitpzs%E7%99%BE%E5%BA%A6AI%E5%9B%BE%E7%89%87%E5%8A%A9%E6%89%8Bbdaitpzs&oq=%E5%9B%BE%E7%89%87&rsp=-1&toolType=1&fr=home&sa=searchpromo_shijian_photohp_dewatermark&showMask=1",
+            "category": "image"
+        },
+        {
+            "name": "ARC人脸修复",
+            "description": "腾讯ARC实验室出品，专注于人像图片的高清修复和增强",
+            "logo": "https://arc.tencent.com/img/logo2.e7c5656a.png",
+            "url": "https://arc.tencent.com/zh/ai-demos/faceRestoration",
+            "category": "image"
+        },
+        {
+            "name": "秘塔AI",
+            "description": "基于DS推理+互联网搜索分析，适合科研方向的资料收集",
+            "logo": "https://metaso.cn/favicon.ico",
+            "url": "https://metaso.cn/?s=sbypcpz&referrer_s=sbypcpz",
+            "category": "text"
+        },
+        {
+            "name": "腾讯元宝",
+            "description": "集成了满血版本DS，可扒取微信公众号文章，支持联网搜索",
+            "logo": "https://q9.itc.cn/images01/20250224/3ea4b1cc1e384dfe946641f42d5af243.jpeg",
+            "url": "https://yuanbao.tencent.com/chat/naQivTmsDa/4d4e4a3e-e535-11ef-9e7e-f66e5aa95f83?from=chat",
+            "category": "text"
+        },
+        {
+            "name": "DeepSeek Chat",
+            "description": "官方版本满血DS，集成联网功能，逻辑推理能力强",
+            "logo": "https://gips0.baidu.com/it/u=501085362,3268784142&fm=3030&app=3030&size=re3,2&q=75&n=0&g=4n&f=JPEG&fmt=auto&maxorilen2heic=2000000?s=46F088725076FF8208BF9FDD020080AC",
+            "url": "https://chat.deepseek.com/",
+            "category": "text"
+        },
+        {
+            "name": "飞书多维表格",
+            "description": "支持AI辅助分析表格内容、内容分类、快速打标签",
+            "logo": "https://www.feishu.cn/favicon.ico",
+            "url": "https://d352deej5b.feishu.cn/drive/home/",
+            "category": "text"
+        },
+        {
+            "name": "即梦AI",
+            "description": "支持AI绘图、视频生成，创意表现优秀",
+            "logo": "https://ecmb.bdimg.com/tam-ogel/805114016_-1776736811_88_88.jpg",
+            "url": "https://jimeng.jianying.com/ai-tool/home",
+            "category": "image"
+        },
+        {
+            "name": "通义万相",
+            "description": "阿里出品，支持AI绘图、视频生成，适合科技感背景",
+            "logo": "https://tongyi.aliyun.com/favicon.ico",
+            "url": "https://tongyi.aliyun.com/wanxiang/creation",
+            "category": "image"
+        },
+        {
+            "name": "Liblib",
+            "description": "支持3D icon风格效果图生成，适合产品设计",
+            "logo": "https://www.liblib.art/favicon.ico",
+            "url": "https://www.liblib.art/",
+            "category": "image"
+        },
+        {
+            "name": "神采AI",
+            "description": "支持白模渲染效果图，适合3D建模和渲染",
+            "logo": "https://www.ishencai.com/favicon.ico",
+            "url": "https://www.ishencai.com/blender",
+            "category": "image"
+        },
+        {
+            "name": "BrandCrowd",
+            "description": "Logo生成平台，提供丰富的logo素材和灵感",
+            "logo": "https://www.brandcrowd.com/favicon.ico",
+            "url": "https://www.brandcrowd.com/",
+            "category": "image"
+        },
+        {
+            "name": "Tripo3D",
+            "description": "支持图生3D模型，可进行骨骼绑定",
+            "logo": "https://www.tripo3d.ai/favicon.ico",
+            "url": "https://www.tripo3d.ai/app/home",
+            "category": "3d"
+        },
+        {
+            "name": "腾讯混元3D",
+            "description": "支持文生模型、图生模型，可进行骨骼绑定",
+            "logo": "https://cdn-3d-prod.hunyuan.tencent.com/public/390741c7416d9f8d0569.webp",
+            "url": "https://3d.hunyuan.tencent.com/",
+            "category": "3d"
+        },
+        {
+            "name": "可灵AI",
+            "description": "支持文生视频、图生视频，人物动作表现优秀",
+            "logo": "https://klingai.kuaishou.com/favicon.ico",
+            "url": "https://klingai.kuaishou.com/text-to-video/new",
+            "category": "video"
+        }
+    ],
+    "lastUpdate": "2024-03-20"
+} 

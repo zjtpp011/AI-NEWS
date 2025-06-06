@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "AIGC工具导航",
+  "version": "1.0",
+  "description": "AI工具导航插件，帮助用户快速找到和使用AI工具",
+  "icons": {
+    "16": "images/icon16.png",
+    "19": "images/icon19.png",
+    "38": "images/icon38.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icon16.png",
+      "19": "images/icon19.png",
+      "38": "images/icon38.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+    }
+  },
+  "permissions": [
+    "tabs"
+  ],
+  "web_accessible_resources": [{
+    "resources": ["data/*"],
+    "matches": ["<all_urls>"]
+  }]
+} 

@@ -1,0 +1,38 @@
+{
+    "articles": [
+        {
+            "title": "零基础也能轻松上手！3款大厂出品的AI编程工具深度测评",
+            "url": "https://www.uisdc.com/ai-programming",
+            "image": "https://image.uisdc.com/wp-content/uploads/2025/05/ysbanner-20250530-4-1.webp",
+            "date": "2025/05/30",
+            "views": "1.2w",
+            "category": "AI",
+            "description": "本文为大家带来3款大厂出品的AI编程工具深度测评，包括Cursor、Trae_CN和CodeBuddy，看看它们各自有什么特点。"
+        },
+        {
+            "title": "噱头大于实用？深度测评3款人气超高的AI智能体产品",
+            "url": "https://www.uisdc.com/ai-agent-3",
+            "image": "https://image.uisdc.com/wp-content/uploads/2025/05/ysbanner-20250508-3-1.jpg",
+            "date": "2025/05/12",
+            "views": "2.5w",
+            "category": "AI",
+            "description": "从Manus发布至今，围绕着这类通用型智能体的讨论从没停过。如今，在舆情平息的时候，我们觉得是时候好好评价一下这类产品了。"
+        },
+        {
+            "title": "一个人就能拍短剧！国产AI视频神器SkyReels太强了（附教程）",
+            "url": "https://www.uisdc.com/skyreels-v1",
+            "image": "https://image.uisdc.com/wp-content/uploads/2025/03/ysbanner-20250305-3.jpg",
+            "date": "2025/03/06",
+            "views": "3.8w",
+            "category": "AI",
+            "description": "SkyReels是一款国产AI视频生成工具，它可以让一个人就能完成短剧拍摄。本文为大家带来详细的使用教程。"
+        }
+    ],
+    "lastUpdate": "2025-05-30",
+    "carousel": {
+        "autoplay": true,
+        "interval": 3000,
+        "showIndicators": true
+    }
+}
+        
